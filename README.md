@@ -1,0 +1,1 @@
+# fuuty-scraper
